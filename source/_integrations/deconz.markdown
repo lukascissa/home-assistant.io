@@ -90,7 +90,7 @@ Either `entity` or `field` must be provided. If both are present, `field` will b
 ```
 
 ```json
-{ "entity": "light.light1", "field: "/state", "data": {"on": true} }
+{ "entity": "light.light1", "field": "/state", "data": {"on": true} }
 ```
 
 ```json
